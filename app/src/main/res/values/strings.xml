@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FitPals</string>
+    <string name="hint_exercise_name">Exercise Name</string>
+    <string name="hint_sets">Sets</string>
+    <string name="hint_reps">Reps</string>
+    <string name="hint_weight">Weight (kg)</string>
+    <string name="button_add_workout">Add Workout</string>
+    <string name="error_fill_fields">Please fill all fields</string>
+    <string name="error_valid_numbers">Please enter valid numbers</string>
+    <string name="success_workout_added">Workout added successfully!</string>
+    <string name="format_sets_reps">%1$d sets × %2$d reps</string>
+    <string name="format_weight">%.1f kg</string>
+</resources>
